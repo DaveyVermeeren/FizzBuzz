@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+#Userfile
+*.vcxproj.user
+
+#Directories
+Debug/
+.vs/
